@@ -1,0 +1,39 @@
+
+PROJECT TITLE:
+BookVault - Book Record Management System
+
+PROJECT TYPE:
+College Mini Project
+
+PROGRAMMING TECHNOLOGIES:
+HTML, CSS and JavaScript
+
+OBJECTIVE:
+To develop a simple application that helps
+users manage book records efficiently.
+
+PURPOSE:
+To understand compound data structures,
+data storage, file handling and validation.
+
+DATA STRUCTURE:
+Array of Objects
+
+FILE HANDLING:
+JSON Import and Export
+
+STORAGE:
+Browser Local Storage
+
+MODULES:
+1. Add Book
+2. View Books
+3. Search Book
+4. Update Book
+5. Delete Book
+6. Export and Import Records
+
+CONCLUSION:
+The application provides an easy way to
+manage book records and demonstrates
+important programming concepts.
